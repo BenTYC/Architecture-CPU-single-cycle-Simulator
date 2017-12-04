@@ -1,0 +1,3 @@
+// Only one program and one header have to do the compiling
+// main.c and simulator.h compile to main.o 
+// then make main.o to single_cycle for execution
